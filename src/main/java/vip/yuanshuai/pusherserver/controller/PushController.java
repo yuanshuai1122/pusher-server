@@ -15,9 +15,9 @@ import vip.yuanshuai.pusherserver.util.Pusher;
 public class PushController {
 
     //要推送的用户openid
-    private static String mxp = "oUClg5xF7jg5tPw4SE219xmdzzxs";
+    private static String mxp = "xxxx";
 
-    private static String zyd = "odbd-6U6ygdSTCwldsJ6qs0kxXeA";
+    private static String zyd = "xxx";
 
 
     /**
